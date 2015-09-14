@@ -1,5 +1,5 @@
-gazebo7 (6.99.0-1~trusty) trusty; urgency=medium
+gazebo7-haptix (7.0.0-1~trusty) trusty; urgency=medium
 
-  * Stub for nightly releases. No gazebo7 official release yet.
+  * gazebo7-haptix
 
  -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 17 Aug 2015 19:06:13 +0200
