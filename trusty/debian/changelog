@@ -1,3 +1,9 @@
+gazebo7-haptix (7.0.1-1~trusty) trusty; urgency=medium
+
+  * gazebo7-haptix 7.0.1-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 04 Nov 2015 01:46:46 +0100
+
 gazebo7-haptix (7.0.0-1~trusty) trusty; urgency=medium
 
   * gazebo7-haptix
