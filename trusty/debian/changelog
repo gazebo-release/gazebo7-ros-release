@@ -1,5 +1,5 @@
-gazebo6-mentor2 (6.99.99+mentor2v1.0-2~trusty) trusty; urgency=medium
+gazebo6-mentor2 (7.99.99+mentor2v1.0-1~trusty) trusty; urgency=medium
 
-  * gazebo6-mentor2 6.99.99+mentor2v1.0-2 release
+  * gazebo7-mentor2 7.99.99+mentor2v1.0-1 release
 
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 22 Sep 2015 03:03:44 +0200
+ -- Ian Chen <ichen@osrfoundation.org>  Thu, 28 Jan 2016 14:19:22 -0800

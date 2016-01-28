@@ -1,0 +1,9 @@
+diff -r 1df7a6602edd trusty/debian/control
+--- a/trusty/debian/control	Tue Jan 26 01:04:54 2016 +0100
++++ b/trusty/debian/control	Thu Jan 28 14:15:34 2016 -0800
+@@ -1,4 +1,4 @@
+-Source: gazebo7
++Source: gazebo7-mentor2
+ Standards-Version: 3.9.5
+ Maintainer: Nate Koenig <nate@osrfoundation.org>
+ Section: science
