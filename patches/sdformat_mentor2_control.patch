@@ -15,7 +15,7 @@ diff -r 1df7a6602edd trusty/debian/control
  	 libavcodec-dev,
  	 libswscale-dev,
 -         libsdformat4-dev,
-+         libsdformat4-dev (>= 3.99.99+mentor2v1.0),
++         libsdformat4-dev (>= 4.99.99+mentor2v1.0),
           libsimbody-dev (>= 3.0.0),
           libsimbody-dev (<< 4.0.0),
           libbullet2.82-dev,
