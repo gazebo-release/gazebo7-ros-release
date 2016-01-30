@@ -155,7 +155,7 @@ Depends: libtbb-dev,
          libsimbody-dev (>= 3.0.0),
          libsimbody-dev (<< 4.0.0),
          libbullet2.82-dev,
-	 libgazebo7 (= ${binary:Version}),
+	 libgazebo7-mentor2 (= ${binary:Version}),
 	 gazebo7-mentor2-common (= ${source:Version}),
 	 gazebo7-mentor2-plugin-base (= ${source:Version}),
 	 ${misc:Depends}
