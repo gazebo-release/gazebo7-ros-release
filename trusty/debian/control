@@ -156,8 +156,8 @@ Depends: libtbb-dev,
          libsimbody-dev (<< 4.0.0),
          libbullet2.82-dev,
 	 libgazebo7 (= ${binary:Version}),
-	 gazebo7-common (= ${source:Version}),
-	 gazebo7-plugin-base (= ${source:Version}),
+	 gazebo7-mentor2-common (= ${source:Version}),
+	 gazebo7-mentor2-plugin-base (= ${source:Version}),
 	 ${misc:Depends}
 Multi-Arch: same
 Conflicts: gazebo2,
