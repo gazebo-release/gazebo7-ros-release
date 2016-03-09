@@ -46,6 +46,8 @@ Build-Depends: cmake,
      libsimbody-dev (<< 4.0.0),
      libbullet2.82-dev,
      libgraphviz-dev,
+     libqwt-dev,
+     libignition-transport-dev,
      ruby-ronn
 Vcs-Browser: https://bitbucket.org/osrf/gazebo7-release
 Vcs-Hg: https://bitbucket.org/osrf/gazebo7-release
@@ -157,6 +159,8 @@ Depends: libtbb-dev,
          libsimbody-dev (<< 4.0.0),
          libbullet2.82-dev,
          libgraphviz-dev,
+         libqwt-dev,
+         libignition-transport-dev,
 	 libgazebo7-mentor2 (= ${binary:Version}),
 	 gazebo7-mentor2-common (= ${source:Version}),
 	 gazebo7-mentor2-plugin-base (= ${source:Version}),

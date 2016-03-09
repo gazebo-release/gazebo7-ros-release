@@ -1,3 +1,9 @@
+gazebo7-mentor2 (7.99.99+mentor2v1.4-1~trusty) trusty; urgency=medium
+
+  * gazebo7-mentor2 7.99.99+mentor2v1.4-1 release
+
+ -- Ian Chen <ichen@osrfoundation.org>  Tue, 08 Mar 2016 18:50:47 -0800
+
 gazebo7-mentor2 (7.99.99+mentor2v1.3-1~trusty) trusty; urgency=medium
 
   * gazebo7-mentor2 7.99.99+mentor2v1.3-1 release
