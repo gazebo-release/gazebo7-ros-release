@@ -1,3 +1,9 @@
+gazebo7 (7.4.0-1~wily) wily; urgency=medium
+
+  * gazebo7 7.4.0-1 release
+
+ -- Nate Koenig <nkoenig@osrfoundation.org>  Tue, 11 Oct 2016 07:09:02 +0700
+
 gazebo7 (7.3.1-1~wily) wily; urgency=medium
 
   * gazebo7 7.3.1-1 release
